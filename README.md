@@ -23,11 +23,15 @@
     - [x] Problem-Solution Fit
     - [x] Solution Architecture
   - Project Design Phase 2
-    - [ ] Customer Journey Maps
-    - [ ] Functional Requirements
-    - [ ] Data Flow Diagrams
-    - [ ] Technology Architecture
-    
+    - [x] Customer Journey Maps
+    - [x] Functional Requirements
+    - [x] Data Flow Diagrams
+    - [x] Technology Architecture
+  - Project Planning Phase
+    - [ ] Milestone & Activity List
+    - [ ] Sprint Delivery Plan
+ 
+
     
 ### Assignments
 
