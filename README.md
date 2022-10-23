@@ -28,9 +28,9 @@
     - [x] Data Flow Diagrams
     - [x] Technology Architecture
   - Project Planning Phase
-    - [ ] Milestone & Activity List
-    - [ ] Sprint Delivery Plan
- 
+    - [x] Milestone & Activity List
+    - [x] Sprint Delivery Plan
+  
 
     
 ### Assignments
