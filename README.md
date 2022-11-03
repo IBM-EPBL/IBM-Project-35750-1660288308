@@ -3,7 +3,7 @@
 ### Technology: Artificial Intelligence
 **Team ID:** PNT2022TMID03423
 
-**Batch:** 
+**Batch:** B2-2M4E
 
 **Team Leader:** HARIRAM B
 
