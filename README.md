@@ -1,5 +1,5 @@
-# IBM-Project-35750-1660288308
-## AI based discourse for Banking Industry
+# 💻 IBM-Project-35750-1660288308
+## 🤖 AI based discourse for Banking Industry
 ### Technology: Artificial Intelligence
 **Team ID:** PNT2022TMID03423
 
@@ -46,6 +46,7 @@
 - [x] Assignment 2
 - [x] Assignment 3
 - [x] Assignment 4
+
 ### About The Project
 
 **Project Description:**
