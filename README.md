@@ -37,7 +37,8 @@
     - [x] Sprint 4
   - Final Deliverables
     - [x] Main Folder
-
+    - [x] Project Document
+    - [x] Project Demo Video
     
 ### Assignments
 
